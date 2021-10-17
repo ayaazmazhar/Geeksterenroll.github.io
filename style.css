@@ -1,0 +1,26 @@
+/* *{
+    padding:0%;
+    margin:0%;
+} */
+p{
+background-color: coral;
+text-align: center;}
+h2{
+background-color: red;
+text-align: center; }
+
+/* <p><b>Just Because of Geekster I have best Knowledge in Following </b></p> */
+thead{
+background-color: yellow;
+
+padding:2000px;
+margin:20 px;
+text-align: center;
+}
+tbody{
+background: linear-gradient(45deg,green,orange);}
+
+
+table{
+padding: 20 px;
+margin: 20 px;}
